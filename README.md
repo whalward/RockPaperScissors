@@ -1,2 +1,2 @@
-# TickTackToe
-Play Tik-Tak-Toe against AI
+# Rock Paper Scissors
+Play Rock Paper Scissors against AI
